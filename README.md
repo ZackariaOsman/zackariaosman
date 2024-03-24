@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zackaria Osman</h1>
-<h3 align="center">A passionate developer from Morio City</h3>
+<h3 align="center">A passionate developer from Curio City</h3>
 
 - 🔭 I’m currently working on [Advent Of Code](https://adventofcode.com)
 
